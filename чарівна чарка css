@@ -1,0 +1,36 @@
+body {
+      font-family:serif; 
+  background:url('https://img.freepik.com/free-photo/grunge-paper-background_1048-10791.jpg?semt=ais_hybrid&w=740');
+  background-size:cover;
+ }
+img{
+  width:130px;
+  border-radius:50px;
+}
+.drinks{background-color:#f5dcab;
+   display: flex; justify-content: space-around;
+  border-radius:50px;
+  margin-bottom:10px; }
+
+p{
+  text-align:center;
+padding:20px;
+ font-family:Comic Sans MS;
+}
+.drink{background-color:#f5dcab;
+   display: flex; justify-content: space-around;
+  border-radius:50px;
+  margin-bottom:10px; 
+}
+.p2{
+  text-align:center;
+
+}
+.drink3{background-color:#f5dcab;
+   display: flex; justify-content: space-around;
+  border-radius:50px;
+  margin-bottom:10px; }
+}
+h1{
+  text-align:center;
+}
