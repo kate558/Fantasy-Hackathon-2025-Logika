@@ -1,0 +1,1 @@
+# Fantasy-Hackathon-2025-Logika
